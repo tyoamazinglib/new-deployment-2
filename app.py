@@ -7,8 +7,9 @@ with open('model/Random_Forest_model.pkl','rb') as file:
 
 html_temp = """
             <div style="background-color:#3872fb;padding:10px;border-radius:10px">
-		    <h1 style="color:white;text-align:center;">Faza <3 Ridwan</h1>
-		    <h4 style="color:white;text-align:center;">Status : Menikah </h4>
+		    <h1 style="color:white;text-align:center;">Loan Eligibility Prediction App</h1>
+            <h2 style="color:white;text-align:center;">Insurance Team </h2>
+		    <h4 style="color:white;text-align:center;">Copyright Tyo </h4>
 		    </div>
             """
 
