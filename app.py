@@ -9,7 +9,6 @@ html_temp = """
             <div style="background-color:#3872fb;padding:15px;border-radius:15px">
 		    <h1 style="color:white;text-align:center;">Loan Eligibility Prediction App</h1>
             <h2 style="color:white;text-align:center;">Insurance Team </h2>
-		    <h4 style="color:white;text-align:center;">Copyright Tyo </h4>
 		    </div>
             """
 
@@ -20,6 +19,8 @@ desc_temp = """
             - Insert Data Source here
             #### App Content
             - Machine Learning Section
+            #### Created By
+            - Nugroho Budi Prasetyo
             """
 
 
