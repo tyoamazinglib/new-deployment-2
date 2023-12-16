@@ -6,7 +6,7 @@ with open('model/Random_Forest_model.pkl','rb') as file:
     Random_Forest_Model = pickle.load(file)
 
 html_temp = """
-            <div style="background-color:#3872fb;padding:15px;border-radius:15px">
+            <div style="background-color:#000000;padding:15px;border-radius:15px">
 		    <h1 style="color:white;text-align:center;">Loan Eligibility Prediction App</h1>
             <h2 style="color:white;text-align:center;">Insurance Team </h2>
 		    </div>
